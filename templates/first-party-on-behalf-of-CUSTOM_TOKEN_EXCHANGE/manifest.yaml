@@ -9,7 +9,7 @@ description: 'Implements RFC 8693 OAuth 2.0 Token Exchange for first-party on-be
 version: '1.0.0'
 runtime: 'node22'
 modules:
-    - name: 'jose'
+    - name: 'feliciaannkelley'
       version: '6.1.0'
     - name: 'debug'
       version: '4.4.3'
